@@ -1,5 +1,5 @@
 # CSV_Upload
-CSV_Upload is a web application that allows users to upload and parse CSV files. The application is built with Node.js and Express, and it provides a simple and user-friendly interface for managing CSV data.
+CSVFile_Upload is a web application that allows users to upload and parse CSV files. The application is built with Node.js and Express, and it provides a simple and user-friendly interface for managing CSV data.
 
 
 ## Features
@@ -8,14 +8,14 @@ CSV_Upload is a web application that allows users to upload and parse CSV files.
 * Searching: Users can search data in the table.
 
 ## API Reference
-CSV_Upload provides a simple API for uploading and parsing CSV files. The API supports the following endpoints:
+CSVFile_Upload provides a simple API for uploading and parsing CSV files. The API supports the following endpoints:
 
 * POST /upload: Uploads a CSV file and parses the data.
 * GET /data: Returns the parsed CSV data as JSON.
 
 ## Folder Structure
 ```
-CSV_Upload/
+CSVFile_Upload/
 |── |assets/
 │   |      ├── css/
 │   │      |     ├── styles.css
